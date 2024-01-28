@@ -13,7 +13,7 @@ const Navbar = () => {
           <Link to={`Casos-de-uso`}>Casos de uso</Link>
         </li>
         <li>
-          <Link to={`Contexto`}>Contexto</Link>
+          <Link to={`MockUp`}>MockUp</Link>
         </li>
       </ul>
     </div>
