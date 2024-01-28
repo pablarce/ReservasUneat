@@ -11,6 +11,7 @@ import Navbar from "./NavBar";
 const App = () => (
   <Router>
     <Navbar />
+    <div className=" overflow-y-scroll"></div>
     <Routes>
       <Route path="/" element={<Bienvenida />} />
       <Route path="/Dominio" element={<Dominio />} />
