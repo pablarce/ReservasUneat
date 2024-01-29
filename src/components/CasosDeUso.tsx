@@ -1,8 +1,8 @@
 const CasoDeUso = () => {
   return (
     <>
-      <div>
-        <h1>Casos de Uso</h1>
+      <div className="p-10">
+        <h1 className="text-3xl">Casos de uso</h1>
       </div>
     </>
   );
